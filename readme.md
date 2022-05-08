@@ -1,3 +1,3 @@
-# Git and Github Course
+# CV
 
-Crash course for Git
+Crash course for HTML
