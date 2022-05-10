@@ -7,6 +7,23 @@ body{
     font-family: 'Roboto', sans-serif;
     /*font: normal, 16px, 'Roboto', sans-serif;*/
 }
+
+a {
+    color: #0f141e;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:active{
+    color: blue;
+}
+
+a:visited{
+    color: gray;
+}
 .avatar {
     width: 150px;
     border-radius: 28px;
